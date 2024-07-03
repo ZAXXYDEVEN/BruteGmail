@@ -469,11 +469,6 @@ def passwordlist():
 						pwx.append(frestile+'123')
 						pwx.append(frestile+'1234')
 						pwx.append(frestile+'12345')
-						pwx.append(frestile+'123456')
-						pwx.append(frestile+'123456789')
-						pwx.append(frestile+'sayang')
-						pwx.append(frestile+'321')
-						pwx.append(frestile+'2020')
 				else:
 					if len(frestile)<3:
 						pwx.append(namamu_ku_simpan)
@@ -482,11 +477,6 @@ def passwordlist():
 						pwx.append(frestile+'123')
 						pwx.append(frestile+'1234')
 						pwx.append(frestile+'12345')
-						pwx.append(frestile+'123456')
-						pwx.append(frestile+'123456789')
-						pwx.append(frestile+'sayang')
-						pwx.append(frestile+'321')
-						pwx.append(frestile+'2020')
 						
 				if 'ya' in sandine: 
 					for sandi_kita in sandina:

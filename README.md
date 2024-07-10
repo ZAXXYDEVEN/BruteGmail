@@ -13,4 +13,4 @@ git clone https://github.com/ZAXXYDEVEN/BruteGmail
 
 cd BruteGmail
 
-python api67.py
+python gmail.py

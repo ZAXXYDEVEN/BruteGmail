@@ -1,4 +1,4 @@
-# BruteGmail V 1.0
+# BruteGmail V 1.1
 pkg update && pkg upggrade
 
 pkg install python 
@@ -15,4 +15,4 @@ git clone https://github.com/ZAXXYDEVEN/BruteGmail
 
 cd BruteGmail
 
-python gmail.py
+python gmails.py

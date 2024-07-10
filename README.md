@@ -9,6 +9,8 @@ pip install bs4
 
 pip install request
 
+pip install rich
+
 git clone https://github.com/ZAXXYDEVEN/BruteGmail
 
 cd BruteGmail
